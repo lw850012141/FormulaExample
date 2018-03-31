@@ -1,4 +1,4 @@
-package com.awelee;
+package com.awelee.demo;
 
 import groovy.lang.Binding;
 import groovy.lang.GroovyShell;
